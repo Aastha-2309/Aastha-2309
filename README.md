@@ -1,4 +1,4 @@
-![boba-drinking-boba](https://github.com/Aastha-2309/Aastha-2309/assets/143490767/2fd6cae0-e801-4e2a-8cfe-52465a011275)<h1 align="center">Hi 👋, I'm Aastha</h1>
+(https://github.com/Aastha-2309/Aastha-2309/assets/143490767/2fd6cae0-e801-4e2a-8cfe-52465a011275)<h1 align="center">Hi 👋, I'm Aastha</h1>
 <h3 align="center">A software developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
