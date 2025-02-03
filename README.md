@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aastha-2309&label=Profile%20views&color=0e75b6&style=flat" alt="aastha-2309" /> </p>
 
-- 🌱 I’m currently learning **Full stack development along with DSA using JAVA.**
+- 🌱 "A Full-Stack Developer with experience building frontend, backend, and full-stack projects from the ground up."
 
-- 💬 Ask me about **Java script, Java, React, Node/Express JS**
+- 💬 Ask me about **Java script, MongoDb, React, Sql, Node/Express JS**
 
 - 📫 How to reach me **aastha.codes23@gmail.com**
 
