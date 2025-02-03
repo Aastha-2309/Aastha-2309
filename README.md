@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java script, MongoDb, React, Sql, Node/Express JS**
 
-- 📫 How to reach me **aastha.codes23@gmail.com**
+- 📫 How to reach me **workaastha23@gmail.com**
 
 - ⚡ Fun fact **My playlist while coding is more diverse than most programming languages.**
 
